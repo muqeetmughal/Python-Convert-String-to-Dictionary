@@ -1,0 +1,49 @@
+Orderable PN: string1
+QTY Need: string2
+Absolute minimum               you will take?: string3
+Project Name: string4
+Application:                  string5
+
+
+
+
+
+
+
+
+
+
+Project Description: string6
+Annual volume:string7
+Production date:string8
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recipient First Name:string9
+Recipient Last Name: string10
+Recipient Email: string11
+Recipient Phone:  string12
+Full Company Name: string13
+Address 1:string14
+Address 2:string15
+City:string16
+State:string17
+Postal Code:string18
